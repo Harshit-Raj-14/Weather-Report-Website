@@ -19,3 +19,4 @@ You can generate your own private key on RapidAPI - weather-by-api-ninjas.p.rapi
 
 
 # Video link
+https://www.linkedin.com/posts/harshit-raj-500606229_30daysofcodechallenge-30daysofcode-vitbhopal-activity-7018548521461030913-7D3Q?utm_source=share&utm_medium=member_desktop
